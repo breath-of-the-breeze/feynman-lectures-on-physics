@@ -8,3 +8,4 @@ of view that you, the reader, are going to be a physicist.
 
 ## 1-3. Atomic processes
 ## 1-4. Chemical reactions
+- [ ] Q: What do the violets smell like? 
