@@ -4,3 +4,6 @@
 
 ## 2-2. Physics Before 1920
 - [ ] Do an experiment to deduce the following laws: a. charges makes a field and b. charges in fields have forces on them and move.
+
+## 2-3. Quantum Physics
+> To give an example of how wrong classical physics is, there is a rule in quantum mechanics that says that one cannot know both where something is and how fast it is moving
