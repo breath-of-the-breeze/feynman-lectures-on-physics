@@ -7,3 +7,7 @@
 
 ## 2-3. Quantum Physics
 > To give an example of how wrong classical physics is, there is a rule in quantum mechanics that says that one cannot know both where something is and how fast it is moving
+
+## 2-4. Nuclei and Particles
+> We do not know how the universe got started, and we have never made experiments which check our ideas of space and time accurately, below some tiny distance, so we only know that our ideas work above that distance.
+> 
